@@ -7,3 +7,5 @@ Image Blending using Laplacian Pyramids
 > image 2    
 ![white](/white.jpg)
 
+> result   
+> ![result](/Pyramid_blending.jpg)
