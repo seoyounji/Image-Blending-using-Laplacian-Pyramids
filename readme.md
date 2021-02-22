@@ -2,8 +2,8 @@ Image Blending using Laplacian Pyramids
 ========================================
 
 > image 1
-![black](/C:/Users/wltjd/Downloads/black.jpg)
+![black](/black.jpg)
 
 > image 2
-![white](/C:/Users/wltjd/Downloads/white.jpg)
+![white](/white.jpg)
 
