@@ -1,9 +1,9 @@
 Image Blending using Laplacian Pyramids
 ========================================
 
-> image 1
+> image 1    
 ![black](/black.jpg)
 
-> image 2
+> image 2    
 ![white](/white.jpg)
 
